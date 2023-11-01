@@ -1,0 +1,7 @@
+﻿html{background:#ffffff;}
+p{background:#ffffff; color:#333; line-height:30px; font-size:18px;font-family: Times New Roman, times, serif;border-bottom:#ccc 0px solid;width:100%;display:inline-block;}
+span{}
+.crossreference{display:none;}
+sup{background:#fff;color:#C95221;height:26px;line-height:26px;font-size:22px;text-align:center;margin-right:7px;font-weight:bold;display:inline-block;}
+h1{background:#71B9D8;color:#fff;height:40px;line-height:40px;margin-top:-7px;padding-left:10px;}
+#di{color:#ccc;padding-left:12px;}
