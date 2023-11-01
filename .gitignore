@@ -3,3 +3,4 @@
 .unique/bible/*.bible
 .unique/bible/KJV.data
 .unique/bhsa/ETCBC.4c
+.unique/bible/**/*.htm
