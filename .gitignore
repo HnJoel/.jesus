@@ -1,5 +1,5 @@
 .unique/bible/KJV.data
-.unique/bhsa/ETCBC.4c
-.unique/lexicon/*.lexicon
 .unique/bible/**/*.csv
 .unique/bible/**/*.htm
+.unique/bhsa/*.4c
+.unique/lexicon/*.lexicon
