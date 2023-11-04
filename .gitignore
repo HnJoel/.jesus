@@ -1,5 +1,2 @@
-.unique/bible/KJV.data
-.unique/bible/**/*.csv
-.unique/bible/**/*.htm
-.unique/bhsa/*.4c
-.unique/lexicon/*.lexicon
+# Virtualenv
+li-env/
