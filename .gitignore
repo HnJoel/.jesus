@@ -1,2 +1,4 @@
 # Virtualenv
 li-env/
+# Build
+__pycache__/
